@@ -14,11 +14,11 @@
     "babel",
     "plugin",
     "import",
-	"hook",
-	"customName",
-	"RegExp",
-	"match",
-	"params"
+    "hook",
+    "customName",
+    "RegExp",
+    "match",
+    "params"
   ],
   "author": "zongze.li",
   "license": "MIT",
