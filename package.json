@@ -1,0 +1,29 @@
+{
+  "name": "babel-plugin-import-hook",
+  "version": "1.0.0",
+  "description": "the import hook for import demand and so on, which support match by RegExp and more params such as the source of (value, type)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizongze/import-hook.git"
+  },
+  "keywords": [
+    "babel",
+    "plugin",
+    "import",
+	"hook",
+	"customName",
+	"RegExp",
+	"match",
+	"params"
+  ],
+  "author": "zongze.li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lizongze/import-hook/issues"
+  },
+  "homepage": "https://github.com/lizongze/import-hook#readme"
+}
